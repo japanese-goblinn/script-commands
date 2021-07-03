@@ -359,6 +359,34 @@
         {
           "authors" : [
             {
+              "name" : "Quentin Eude",
+              "url" : "https:\/\/github.com\/qeude"
+            }
+          ],
+          "createdAt" : "2021-07-02T09:59:04+02:00",
+          "currentDirectoryPath" : null,
+          "description" : "Create a GIF from video, by default it takes the last screen record video",
+          "filename" : "create-gif-from-video.py",
+          "hasArguments" : true,
+          "icon" : {
+            "dark" : null,
+            "light" : "📹"
+          },
+          "identifier" : "84edd7675ee0b974e699ddd28fae84f5",
+          "isTemplate" : false,
+          "language" : "python",
+          "mode" : "compact",
+          "needsConfirmation" : null,
+          "packageName" : "Conversions",
+          "path" : "conversions\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Create GIF from video",
+          "updatedAt" : "2021-07-02T09:59:04+02:00"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Caleb Stauffer",
               "url" : "https:\/\/github.com\/crstauf"
             }
@@ -1200,6 +1228,62 @@
           "schemaVersion" : 1,
           "title" : "Open URL From Clipboard",
           "updatedAt" : "2020-12-08T15:56:35+00:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "Jakub Lanski",
+              "url" : "https:\/\/github.com\/jaklan"
+            }
+          ],
+          "createdAt" : "2021-06-23T14:44:22+02:00",
+          "currentDirectoryPath" : null,
+          "description" : "Quit the application. Edit the command to change the default values (Application: \"\", Force quit?: \"No\").",
+          "filename" : "quit-application.applescript",
+          "hasArguments" : true,
+          "icon" : {
+            "dark" : null,
+            "light" : "images\/quit.png"
+          },
+          "identifier" : "6cadd1b2f46cf256ef300204493c98be",
+          "isTemplate" : false,
+          "language" : "applescript",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Navigation",
+          "path" : "navigation\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Quit Application",
+          "updatedAt" : "2021-06-23T14:44:22+02:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "Jakub Lanski",
+              "url" : "https:\/\/github.com\/jaklan"
+            }
+          ],
+          "createdAt" : "2021-06-23T14:44:22+02:00",
+          "currentDirectoryPath" : null,
+          "description" : "Restart the application. Edit the command to change the default values (Application: \"\", Force restart?: \"No\").",
+          "filename" : "restart-application.applescript",
+          "hasArguments" : true,
+          "icon" : {
+            "dark" : null,
+            "light" : "images\/restart.png"
+          },
+          "identifier" : "1fd3b81609ac36ee68e94ef9d596c992",
+          "isTemplate" : false,
+          "language" : "applescript",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Navigation",
+          "path" : "navigation\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Restart Application",
+          "updatedAt" : "2021-06-23T14:44:22+02:00"
         },
         {
           "authors" : [
@@ -2209,6 +2293,34 @@
         {
           "authors" : [
             {
+              "name" : "Yan Smaliak",
+              "url" : "https:\/\/github.com\/ysmaliak"
+            }
+          ],
+          "createdAt" : "2021-06-23T23:17:52+03:00",
+          "currentDirectoryPath" : null,
+          "description" : "Shows caffeinate status and time left if it's running",
+          "filename" : "caffeinate-status.swift",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "☕️"
+          },
+          "identifier" : "ea698b6674bb57715a2b7c4a06fc428c",
+          "isTemplate" : false,
+          "language" : "swift",
+          "mode" : "inline",
+          "needsConfirmation" : false,
+          "packageName" : "System",
+          "path" : "system\/",
+          "refreshTime" : "30s",
+          "schemaVersion" : 1,
+          "title" : "Caffeinate",
+          "updatedAt" : "2021-06-24T14:36:25+03:00"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Marcos Sánchez-Dehesa",
               "url" : "https:\/\/www.github.com\/dehesa"
             }
@@ -2452,6 +2564,34 @@
           "schemaVersion" : 1,
           "title" : "Refresh Wallpaper",
           "updatedAt" : "2021-06-04T16:35:43-04:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "Yan Smaliak",
+              "url" : "https:\/\/github.com\/ysmaliak"
+            }
+          ],
+          "createdAt" : "2021-06-23T19:47:11+03:00",
+          "currentDirectoryPath" : null,
+          "description" : "Stops all caffeinate sessions",
+          "filename" : "caffeinate-disable.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "☕️"
+          },
+          "identifier" : "b8f343e8f5516c3671d7e09e7f5af6b5",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "silent",
+          "needsConfirmation" : false,
+          "packageName" : "System",
+          "path" : "system\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Disable Caffeinate",
+          "updatedAt" : "2021-06-23T19:47:11+03:00"
         },
         {
           "authors" : [
@@ -2843,6 +2983,34 @@
         {
           "authors" : [
             {
+              "name" : "Yan Smaliak",
+              "url" : "https:\/\/github.com\/ysmaliak"
+            }
+          ],
+          "createdAt" : "2021-06-23T19:47:11+03:00",
+          "currentDirectoryPath" : null,
+          "description" : "Starts a caffeinated session",
+          "filename" : "caffeinate-enable.sh",
+          "hasArguments" : true,
+          "icon" : {
+            "dark" : null,
+            "light" : "☕️"
+          },
+          "identifier" : "61b64ef5d74932f70a3a2108e7055eb0",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "silent",
+          "needsConfirmation" : false,
+          "packageName" : "System",
+          "path" : "system\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Enable Caffeinate",
+          "updatedAt" : "2021-06-23T19:47:11+03:00"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Vincent Dörig",
               "url" : "https:\/\/github.com\/vincentdoerig"
             }
@@ -3024,6 +3192,34 @@
         {
           "authors" : [
             {
+              "name" : "Yan Smaliak",
+              "url" : "https:\/\/github.com\/ysmaliak"
+            }
+          ],
+          "createdAt" : "2021-06-23T19:47:11+03:00",
+          "currentDirectoryPath" : null,
+          "description" : "Shows caffeinate status",
+          "filename" : "caffeinate-status.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "☕️"
+          },
+          "identifier" : "983e3f9a1dd803134bc1cd49ace17de2",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "inline",
+          "needsConfirmation" : false,
+          "packageName" : "System",
+          "path" : "system\/",
+          "refreshTime" : "30s",
+          "schemaVersion" : 1,
+          "title" : "Caffeinate",
+          "updatedAt" : "2021-06-23T19:47:11+03:00"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Brandon Escamilla",
               "url" : "https:\/\/github.com\/brandonescamilla"
             }
@@ -3076,6 +3272,34 @@
           "schemaVersion" : 1,
           "title" : "Largest RAM Process",
           "updatedAt" : "2020-11-28T13:04:44-05:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "Felipe Turcheti",
+              "url" : "https:\/\/felipeturcheti.com"
+            }
+          ],
+          "createdAt" : "2021-06-14T14:36:05-03:00",
+          "currentDirectoryPath" : null,
+          "description" : "Flush DNS cache",
+          "filename" : "flush-dns.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "💨"
+          },
+          "identifier" : "63e51cac9289a2734e161cc8306805b4",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "System",
+          "path" : "system\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Flush DNS",
+          "updatedAt" : "2021-06-14T14:36:05-03:00"
         },
         {
           "authors" : [
@@ -3850,6 +4074,34 @@
         {
           "authors" : [
             {
+              "name" : "es183923",
+              "url" : null
+            }
+          ],
+          "createdAt" : "2021-06-21T19:28:31-04:00",
+          "currentDirectoryPath" : null,
+          "description" : "Counts the characters of either the clipboard or the passed argument",
+          "filename" : "count-characters.sh",
+          "hasArguments" : true,
+          "icon" : {
+            "dark" : null,
+            "light" : "🤖"
+          },
+          "identifier" : "a33b175caa4abccee75bc6ad6d6b5e67",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "fullOutput",
+          "needsConfirmation" : null,
+          "packageName" : "Developer Utilities",
+          "path" : "developer-utils\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Count Characters Bash",
+          "updatedAt" : "2021-06-23T07:27:53+00:00"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Nitin Gupta",
               "url" : "https:\/\/twitter.com\/gniting"
             }
@@ -3971,6 +4223,34 @@
           "schemaVersion" : 1,
           "title" : "Decode JWT",
           "updatedAt" : "2020-12-08T15:56:35+00:00"
+        },
+        {
+          "authors" : [
+            {
+              "name" : "everdrone",
+              "url" : "https:\/\/github.com\/everdrone"
+            }
+          ],
+          "createdAt" : "2021-06-14T20:09:49+02:00",
+          "currentDirectoryPath" : null,
+          "description" : "Generates an iOS style password",
+          "filename" : "genpasswd.py",
+          "hasArguments" : true,
+          "icon" : {
+            "dark" : "images\/genpasswd-iconDark.png",
+            "light" : "images\/genpasswd.png"
+          },
+          "identifier" : "9dc51af4c249558a100fad853ffcc352",
+          "isTemplate" : false,
+          "language" : "python",
+          "mode" : "silent",
+          "needsConfirmation" : null,
+          "packageName" : "Security",
+          "path" : "developer-utils\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Generate Password",
+          "updatedAt" : "2021-06-14T20:09:49+02:00"
         },
         {
           "authors" : [
@@ -4207,18 +4487,18 @@
               "url" : "https:\/\/twitter.com\/tholanda"
             }
           ],
-          "createdAt" : "2020-11-19T21:59:09+01:00",
+          "createdAt" : "2021-06-05T21:07:26+02:00",
           "currentDirectoryPath" : null,
           "description" : "Search for Script Commands available in the Raycast repository",
-          "filename" : "search-script-command.swift",
+          "filename" : "search-script-command.sh",
           "hasArguments" : true,
           "icon" : {
             "dark" : null,
             "light" : "🔎"
           },
-          "identifier" : "2376f63fd1dd06f1e8563b618f96c63c",
+          "identifier" : "15992addc83ee43764382a5e2542d881",
           "isTemplate" : false,
-          "language" : "swift",
+          "language" : "bash",
           "mode" : "fullOutput",
           "needsConfirmation" : null,
           "packageName" : "Searches",
@@ -4226,7 +4506,7 @@
           "refreshTime" : null,
           "schemaVersion" : 1,
           "title" : "Search Script Command",
-          "updatedAt" : "2020-11-23T12:53:48-05:00"
+          "updatedAt" : "2021-06-05T21:13:58+02:00"
         },
         {
           "authors" : [
@@ -4687,6 +4967,34 @@
         {
           "authors" : [
             {
+              "name" : "Kirill Gorbachyonok",
+              "url" : "https:\/\/github.com\/japanese-goblinn"
+            }
+          ],
+          "createdAt" : "2021-06-14T20:33:34+03:00",
+          "currentDirectoryPath" : null,
+          "description" : "This script clears all Xcode related junk.",
+          "filename" : "clear_xcode.sh",
+          "hasArguments" : false,
+          "icon" : {
+            "dark" : null,
+            "light" : "🧹"
+          },
+          "identifier" : "f667f25957f079e625220ac6a9c06c36",
+          "isTemplate" : false,
+          "language" : "bash",
+          "mode" : "compact",
+          "needsConfirmation" : null,
+          "packageName" : "Xcode",
+          "path" : "developer-utils\/",
+          "refreshTime" : null,
+          "schemaVersion" : 1,
+          "title" : "Clear All Related Junk",
+          "updatedAt" : "2021-06-14T20:33:34+03:00"
+        },
+        {
+          "authors" : [
+            {
               "name" : "Caleb Stauffer",
               "url" : "https:\/\/github.com\/crstauf"
             }
@@ -4931,6 +5239,34 @@
               "schemaVersion" : 1,
               "title" : "List Containers",
               "updatedAt" : "2021-06-04T18:57:07+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Quentin Eude",
+                  "url" : null
+                }
+              ],
+              "createdAt" : "2021-06-06T21:26:12+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Script that cleans Docker images, volumes, and containers",
+              "filename" : "clean-docker.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "🧹"
+              },
+              "identifier" : "7220089fce735f0f32ad17bb19da6dd7",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "compact",
+              "needsConfirmation" : true,
+              "packageName" : "Docker",
+              "path" : "developer-utils\/docker\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Clean",
+              "updatedAt" : "2021-06-12T17:33:18+00:00"
             },
             {
               "authors" : [
@@ -5957,7 +6293,7 @@
               "refreshTime" : null,
               "schemaVersion" : 1,
               "title" : "Copy First Matching Password",
-              "updatedAt" : "2021-05-10T10:13:49+02:00"
+              "updatedAt" : "2021-06-27T00:02:29+02:00"
             },
             {
               "authors" : [
@@ -6041,7 +6377,7 @@
               "refreshTime" : null,
               "schemaVersion" : 1,
               "title" : "Receive a Text Send",
-              "updatedAt" : "2021-03-29T13:44:44-04:00"
+              "updatedAt" : "2021-06-16T14:43:13+02:00"
             },
             {
               "authors" : [
@@ -6069,7 +6405,7 @@
               "refreshTime" : null,
               "schemaVersion" : 1,
               "title" : "Create a Text Send",
-              "updatedAt" : "2021-03-29T17:48:36+00:00"
+              "updatedAt" : "2021-06-16T14:43:13+02:00"
             },
             {
               "authors" : [
@@ -6209,7 +6545,7 @@
               "refreshTime" : null,
               "schemaVersion" : 1,
               "title" : "Unlock Session",
-              "updatedAt" : "2021-03-29T13:44:44-04:00"
+              "updatedAt" : "2021-06-20T15:07:42+02:00"
             },
             {
               "authors" : [
@@ -6265,7 +6601,7 @@
               "refreshTime" : null,
               "schemaVersion" : 1,
               "title" : "Log In",
-              "updatedAt" : "2021-03-29T13:44:44-04:00"
+              "updatedAt" : "2021-06-17T13:37:57+02:00"
             }
           ]
         }
@@ -9143,6 +9479,130 @@
           ]
         },
         {
+          "name" : "Playground",
+          "path" : "playground",
+          "scriptCommands" : [
+            {
+              "authors" : [
+                {
+                  "name" : "Quentin Eude",
+                  "url" : "https:\/\/github.com\/qeude"
+                }
+              ],
+              "createdAt" : "2021-06-14T20:32:07+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Create and open a new view based Swift Playground",
+              "filename" : "open-new-view-playground.py",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : "🕊"
+              },
+              "identifier" : "830a18fee37d756c1a00a65e286113a3",
+              "isTemplate" : false,
+              "language" : "python",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Swift Playgrounds",
+              "path" : "apps\/playground\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Create View Based",
+              "updatedAt" : "2021-06-14T20:32:07+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Quentin Eude",
+                  "url" : "https:\/\/github.com\/qeude"
+                }
+              ],
+              "createdAt" : "2021-06-14T20:32:07+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Create and open a new basic Swift Playground",
+              "filename" : "open-new-playground.py",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : "🕊"
+              },
+              "identifier" : "23040420c0f901b4bd478a02943591c5",
+              "isTemplate" : false,
+              "language" : "python",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Swift Playgrounds",
+              "path" : "apps\/playground\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Create Basic",
+              "updatedAt" : "2021-06-14T20:32:07+02:00"
+            }
+          ]
+        },
+        {
+          "name" : "Noteplan3",
+          "path" : "noteplan3",
+          "scriptCommands" : [
+            {
+              "authors" : [
+                {
+                  "name" : "Göran Damberg",
+                  "url" : "https:\/\/github.com\/gdamberg"
+                }
+              ],
+              "createdAt" : "2021-06-23T09:20:05+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Append to daily note",
+              "filename" : "noteplan-append-daily-note.sh",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/noteplan3.png"
+              },
+              "identifier" : "d802c64f73f9e89996597e76af3d5094",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "NotePlan3",
+              "path" : "apps\/noteplan3\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Append To Daily Note",
+              "updatedAt" : "2021-06-23T09:20:05+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Göran Damberg",
+                  "url" : "https:\/\/github.com\/gdamberg"
+                }
+              ],
+              "createdAt" : "2021-06-23T09:20:05+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Create a new note from clipboard",
+              "filename" : "noteplan-new-note-from-clipboard.sh",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/noteplan3.png"
+              },
+              "identifier" : "2562e5c7b3258337f783b8210e796d55",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "fullOutput",
+              "needsConfirmation" : null,
+              "packageName" : "NotePlan3",
+              "path" : "apps\/noteplan3\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "New Note From Clipboard",
+              "updatedAt" : "2021-06-23T09:20:05+02:00"
+            }
+          ]
+        },
+        {
           "name" : "Amphetamine",
           "path" : "amphetamine",
           "scriptCommands" : [
@@ -9318,7 +9778,7 @@
               "refreshTime" : null,
               "schemaVersion" : 1,
               "title" : "Search",
-              "updatedAt" : "2021-05-28T10:36:54+01:00"
+              "updatedAt" : "2021-06-14T14:17:13-05:00"
             },
             {
               "authors" : [
@@ -9689,6 +10149,124 @@
               "schemaVersion" : 1,
               "title" : "Toggle Dimming",
               "updatedAt" : "2021-05-28T10:42:00+01:00"
+            }
+          ]
+        },
+        {
+          "name" : "Pulse Secure",
+          "path" : "pulse-secure",
+          "scriptCommands" : [
+            {
+              "authors" : [
+                {
+                  "name" : "Jakub Lanski",
+                  "url" : "https:\/\/github.com\/jaklan"
+                }
+              ],
+              "createdAt" : "2021-06-14T20:14:26+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Resume the suspended connection.",
+              "filename" : "pulse-secure-resume.applescript",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/pulse-secure.png"
+              },
+              "identifier" : "137e52f49aba309c60fb9bc9427bda4d",
+              "isTemplate" : false,
+              "language" : "applescript",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Pulse Secure",
+              "path" : "apps\/pulse-secure\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Resume",
+              "updatedAt" : "2021-06-14T20:14:26+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Jakub Lanski",
+                  "url" : "https:\/\/github.com\/jaklan"
+                }
+              ],
+              "createdAt" : "2021-06-14T20:14:26+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Connect to the given \/ default connection with the given \/ default username.",
+              "filename" : "pulse-secure-connect.applescript",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/pulse-secure.png"
+              },
+              "identifier" : "8776f55ec372ac1d0a62bc9267777ace",
+              "isTemplate" : false,
+              "language" : "applescript",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Pulse Secure",
+              "path" : "apps\/pulse-secure\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Connect \/ Reconnect",
+              "updatedAt" : "2021-06-16T14:42:20+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Jakub Lanski",
+                  "url" : "https:\/\/github.com\/jaklan"
+                }
+              ],
+              "createdAt" : "2021-06-14T20:14:26+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Suspend the active connection.",
+              "filename" : "pulse-secure-suspend.applescript",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/pulse-secure.png"
+              },
+              "identifier" : "c5e03d8d6265725238c13d8b285c48f6",
+              "isTemplate" : false,
+              "language" : "applescript",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Pulse Secure",
+              "path" : "apps\/pulse-secure\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Suspend",
+              "updatedAt" : "2021-06-14T20:14:26+02:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Jakub Lanski",
+                  "url" : "https:\/\/github.com\/jaklan"
+                }
+              ],
+              "createdAt" : "2021-06-14T20:14:26+02:00",
+              "currentDirectoryPath" : null,
+              "description" : "Disconnect \/ cancel the active connection.",
+              "filename" : "pulse-secure-disconnect.applescript",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/pulse-secure.png"
+              },
+              "identifier" : "03191a91d92833853d2a70fad5f19424",
+              "isTemplate" : false,
+              "language" : "applescript",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Pulse Secure",
+              "path" : "apps\/pulse-secure\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Disconnect \/ Cancel",
+              "updatedAt" : "2021-06-14T20:14:26+02:00"
             }
           ]
         },
@@ -10609,6 +11187,124 @@
           ]
         },
         {
+          "name" : "Tailscale",
+          "path" : "tailscale",
+          "scriptCommands" : [
+            {
+              "authors" : [
+                {
+                  "name" : "Ross Zurowski",
+                  "url" : "https:\/\/github.com\/rosszurowski"
+                }
+              ],
+              "createdAt" : "2021-06-14T15:33:18-04:00",
+              "currentDirectoryPath" : null,
+              "description" : "Disconnects from Tailscale",
+              "filename" : "tailscale-disconnect.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : ".\/images\/tailscale-iconDark.png",
+                "light" : ".\/images\/tailscale-icon.png"
+              },
+              "identifier" : "e8490d25ff8264ba488daca5cf1bd686",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Tailscale",
+              "path" : "apps\/tailscale\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Disconnect",
+              "updatedAt" : "2021-06-14T15:33:18-04:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Ross Zurowski",
+                  "url" : "https:\/\/github.com\/rosszurowski"
+                }
+              ],
+              "createdAt" : "2021-06-14T15:33:18-04:00",
+              "currentDirectoryPath" : null,
+              "description" : "Gets your private Tailscale IP",
+              "filename" : "tailscale-ip.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : ".\/images\/tailscale-iconDark.png",
+                "light" : ".\/images\/tailscale-icon.png"
+              },
+              "identifier" : "95bc0bc6cbf4aa67028652f54fc1009c",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "inline",
+              "needsConfirmation" : null,
+              "packageName" : "Tailscale",
+              "path" : "apps\/tailscale\/",
+              "refreshTime" : "1d",
+              "schemaVersion" : 1,
+              "title" : "Get IP",
+              "updatedAt" : "2021-06-14T15:33:18-04:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Ross Zurowski",
+                  "url" : "https:\/\/github.com\/rosszurowski"
+                }
+              ],
+              "createdAt" : "2021-06-14T15:33:18-04:00",
+              "currentDirectoryPath" : null,
+              "description" : "Connects to Tailscale",
+              "filename" : "tailscale-connect.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : ".\/images\/tailscale-iconDark.png",
+                "light" : ".\/images\/tailscale-icon.png"
+              },
+              "identifier" : "3264e1d35d86b9573e5d3962b64992f6",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Tailscale",
+              "path" : "apps\/tailscale\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Connect",
+              "updatedAt" : "2021-06-14T15:33:18-04:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Ross Zurowski",
+                  "url" : "https:\/\/github.com\/rosszurowski"
+                }
+              ],
+              "createdAt" : "2021-06-14T15:33:18-04:00",
+              "currentDirectoryPath" : null,
+              "description" : "Switches Tailscale networks",
+              "filename" : "tailscale-switch.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : ".\/images\/tailscale-iconDark.png",
+                "light" : ".\/images\/tailscale-icon.png"
+              },
+              "identifier" : "d80b655296e9ce8762ff310a4dc45d7a",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Tailscale",
+              "path" : "apps\/tailscale\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Switch Account",
+              "updatedAt" : "2021-06-14T15:33:18-04:00"
+            }
+          ]
+        },
+        {
           "name" : "Deepl",
           "path" : "deepl",
           "scriptCommands" : [
@@ -10667,6 +11363,96 @@
               "schemaVersion" : 1,
               "title" : "DeepL App Translate",
               "updatedAt" : "2021-04-18T01:23:05+02:00"
+            }
+          ]
+        },
+        {
+          "name" : "Agenda",
+          "path" : "agenda",
+          "scriptCommands" : [
+            {
+              "authors" : [
+                {
+                  "name" : "Michael Ellis",
+                  "url" : "https:\/\/github.com\/mtellis2"
+                }
+              ],
+              "createdAt" : "2021-06-26T15:52:43-04:00",
+              "currentDirectoryPath" : null,
+              "description" : "Opens Agenda - Today Overview",
+              "filename" : "agenda-today.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/agenda.png"
+              },
+              "identifier" : "7f50aaf0597b597069fb354a58a4573b",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Agenda",
+              "path" : "apps\/agenda\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Agenda Today Overview",
+              "updatedAt" : "2021-06-26T15:52:43-04:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Michael Ellis",
+                  "url" : "https:\/\/github.com\/mtellis2"
+                }
+              ],
+              "createdAt" : "2021-06-26T15:52:43-04:00",
+              "currentDirectoryPath" : null,
+              "description" : "Opens Agenda - On the Agenda Overview",
+              "filename" : "agenda-on-the-agenda.sh",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/agenda.png"
+              },
+              "identifier" : "8e019b6506bee0ffad51b2a625ed0d0b",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Agenda",
+              "path" : "apps\/agenda\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "On the Agenda Overview",
+              "updatedAt" : "2021-06-26T15:52:43-04:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Michael Ellis",
+                  "url" : "https:\/\/github.com\/mtellis2"
+                }
+              ],
+              "createdAt" : "2021-06-26T15:52:43-04:00",
+              "currentDirectoryPath" : null,
+              "description" : "Creates New Note and adds it to On the Agenda",
+              "filename" : "agenda-new-note.sh",
+              "hasArguments" : true,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/agenda.png"
+              },
+              "identifier" : "9b7ee4e0b61fcd48feeb8280ac0adbdf",
+              "isTemplate" : false,
+              "language" : "bash",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Agenda",
+              "path" : "apps\/agenda\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Create New On the Agenda Note",
+              "updatedAt" : "2021-06-26T15:52:43-04:00"
             }
           ]
         },
@@ -12204,6 +12990,6 @@
   "metadata" : [
 
   ],
-  "totalScriptCommands" : 429,
-  "updatedAt" : "2021-06-04T20:56:22Z"
+  "totalScriptCommands" : 456,
+  "updatedAt" : "2021-07-02T08:01:13Z"
 }
